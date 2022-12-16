@@ -1,8 +1,8 @@
 from typing import List
 from time import sleep
 
-from models.cliente import Cliente
-from models.conta import Conta
+from banco_python.cliente import Cliente
+from banco_python.conta import Conta
 
 
 contas: List[Conta] = []

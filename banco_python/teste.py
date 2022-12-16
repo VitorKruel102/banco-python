@@ -1,5 +1,5 @@
-from models.cliente import Cliente
-from models.conta import Conta
+from banco_python.cliente import Cliente
+from banco_python.conta import Conta
 
 
 felicity: Cliente = Cliente('Felicity Jones', 'felicity@gmail.com', '123.456.789-01', '02/09/1987')

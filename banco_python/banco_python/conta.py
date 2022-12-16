@@ -1,4 +1,4 @@
-from models.cliente import Cliente
+from banco_python.cliente import Cliente
 from utils.helper import formata_float_str_moeda
 
 
